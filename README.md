@@ -1,5 +1,5 @@
 # atmaCup17_20thSolution
-- [solution write up](https://www.guruguru.science/competitions/24/discussions/b57086c1-e61d-4c96-87d0-52eb2fe59dfd/)
+- solution write up is [here](https://www.guruguru.science/competitions/24/discussions/b57086c1-e61d-4c96-87d0-52eb2fe59dfd/)
 
 | model | description |CV | Public LB |
 | ---- | ---- | ---- | ---- |
